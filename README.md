@@ -1,2 +1,4 @@
-# Curso Git GustavoGuanabara
- Primeiro repositório do curso de Git e Github
+# Curso Git GustavoGuanabara.
+ Primeiro repositório do curso de Git e Github.
+
+Adicionando commit e versionando.
